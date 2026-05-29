@@ -1,0 +1,58 @@
+{
+  "id": "VC-DOMAIN-TYPE-001",
+  "title": "一句清晰、具体、可复用的标题",
+  "aliases": [],
+  "grain": "atom",
+  "type": "micro_tip",
+  "canonical_statement": "用一到三句话写出标准表达。必须具体、可执行、有边界，不要写成泛泛总结。",
+  "why_it_matters": "解释它解决的真实问题、降低的风险或改变的行为。",
+  "action": [
+    "用户可以立刻执行的动作 1",
+    "用户可以立刻执行的动作 2"
+  ],
+  "failure_if_ignored": [
+    "忽略后可能出现的失败结果 1",
+    "忽略后可能出现的失败结果 2"
+  ],
+  "applies_to": {
+    "domain": ["vibe_coding"],
+    "stage": [],
+    "audience": [],
+    "tools": [],
+    "project_type": []
+  },
+  "not_for": [],
+  "source_spans": [
+    {
+      "source_id": "",
+      "path": "",
+      "section": "",
+      "span": "",
+      "note": ""
+    }
+  ],
+  "used_in": [],
+  "relations": {
+    "part_of": [],
+    "requires": [],
+    "prevents": [],
+    "solves": [],
+    "variant_of": [],
+    "contradicts": [],
+    "updates": [],
+    "replaces": []
+  },
+  "children": [],
+  "parent": null,
+  "verification": {
+    "status": "untested",
+    "last_tested_at": null,
+    "tested_with": [],
+    "notes": ""
+  },
+  "status": "candidate",
+  "confidence": "medium",
+  "freshness_risk": "medium",
+  "last_reviewed_at": "YYYY-MM-DD",
+  "next_review_after": null
+}
