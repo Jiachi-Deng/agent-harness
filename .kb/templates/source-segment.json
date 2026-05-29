@@ -1,0 +1,14 @@
+{
+  "id": "SEG-VC-COURSE-001",
+  "source_id": "",
+  "source_type": "clipping | raw | notebooklm_review | coursekit | wiki_page",
+  "source_path": "",
+  "span": "时间戳、章节名、行号或段落范围",
+  "topic": "片段主题",
+  "segment_function": "concept | setup | workflow | demo | debugging | opinion | promotion | other",
+  "summary": "用一到三句话说明这个片段讲了什么。",
+  "extraction_status": "unreviewed | extracted | duplicate | context_only | noise | outdated | uncertain | needs_human_review",
+  "extracted_units": [],
+  "ignored_reason": null,
+  "notes": "如果片段里有难以分类但可能很值钱的小 tip，先写在这里，再转为 candidate unit。"
+}
