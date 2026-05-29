@@ -1,0 +1,24 @@
+{"from":"VC-DEBUG-WORKFLOW-001","relation":"contains","to":"VC-DEBUG-TIP-001","note":"调试闭环包含证据提交这个最小行为改变单元。"}
+{"from":"VC-DEBUG-TIP-001","relation":"part_of","to":"VC-DEBUG-WORKFLOW-001","note":"调试时提供证据是调试闭环的核心 atom。"}
+{"from":"VC-PLAN-TIP-001","relation":"enables","to":"VC-PLAN-RULE-001","note":"把想法写成 Markdown brief 后，复杂 SaaS 才更容易拆进 issues。"}
+{"from":"VC-PLAN-RULE-001","relation":"requires","to":"VC-PLAN-TIP-001","note":"复杂任务 issue 化前，需要先有稳定的项目 brief 或需求文件。"}
+{"from":"VC-CONTEXT-TIP-001","relation":"related_to","to":"VC-CONTEXT-TIP-002","note":"长期上下文文件化和 compaction 摘要是同一个上下文管理问题的两个层面。"}
+{"from":"VC-BUILD-TIP-001","relation":"prevents","to":"VC-DEBUG-PITFALL-001","note":"改一点测一点可以降低多 bug 叠加风险；VC-DEBUG-PITFALL-001 尚待创建。"}
+{"from":"VC-DEPLOY-TIP-001","relation":"related_to","to":"VC-SEC-SECRET-001","note":"生产环境变量配置和密钥泄露防护是部署与安全的交叉点。"}
+{"from":"VC-SEC-BLOCK-001","relation":"contains","to":"VC-SEC-SECRET-001","note":"安全审计 5 项之一：密钥与环境变量。"}
+{"from":"VC-SEC-BLOCK-001","relation":"contains","to":"VC-SEC-RLS-001","note":"安全审计 5 项之一：Supabase RLS。"}
+{"from":"VC-SEC-BLOCK-001","relation":"contains","to":"VC-SEC-SERVER-VALIDATION-001","note":"安全审计 5 项之一：服务端验证。"}
+{"from":"VC-SEC-BLOCK-001","relation":"contains","to":"VC-SEC-DEPS-001","note":"安全审计 5 项之一：依赖与包。"}
+{"from":"VC-SEC-BLOCK-001","relation":"contains","to":"VC-SEC-AUTH-MIDDLEWARE-001","note":"安全审计 5 项之一：认证中间件。"}
+{"from":"VC-SEC-RLS-001","relation":"solves","to":"VC-DEBUG-PROBLEM-PERMISSION-001","note":"RLS policy 错误经常表现为 permission denied 或数据查不到；目标 problem unit 尚待创建。"}
+{"from":"VC-SEC-PROMPT-RULE-001","relation":"part_of","to":"VC-SEC-BLOCK-001","note":"安全审计 prompt 的正确用法服务于安全审计 block。"}
+{"from":"VC-SAAS-WORKFLOW-001","relation":"contains","to":"VC-PLAN-TIP-001","note":"SaaS 闭环从需求和项目 brief 开始。"}
+{"from":"VC-SAAS-WORKFLOW-001","relation":"contains","to":"VC-SEC-BLOCK-001","note":"安全审计是 SaaS 闭环上线前的最低门槛。"}
+{"from":"VC-SAAS-WORKFLOW-001","relation":"contains","to":"VC-DEPLOY-TIP-001","note":"部署环境变量是 SaaS 闭环里的高频上线坑。"}
+{"from":"VC-SAAS-WORKFLOW-001","relation":"contains","to":"VC-BUILD-TIP-001","note":"小步测试是 SaaS 闭环里的迭代纪律。"}
+{"from":"VC-SAAS-WORKFLOW-001","relation":"contains","to":"VC-DEBUG-WORKFLOW-001","note":"调试证据闭环是 SaaS 迭代和验收的一部分。"}
+{"from":"VC-PLAN-RULE-001","relation":"enables","to":"VC-AGENT-RULE-001","note":"清晰 issues 是 worktrees 并行的前置条件。"}
+{"from":"VC-AGENT-RULE-001","relation":"requires","to":"VC-PLAN-RULE-001","note":"没有 issue 边界时不应启用多个 worktrees 并行。"}
+{"from":"VC-PLAN-RULE-001","relation":"enables","to":"VC-AUTO-TIP-001","note":"automation 可以围绕清晰 issue backlog 做巡检和更新。"}
+{"from":"VC-MULTIAGENT-RULE-001","relation":"related_to","to":"VC-AGENT-RULE-001","note":"多代理并行和 worktrees 并行都依赖模块边界。"}
+{"from":"VC-PRODUCT-PATTERN-001","relation":"related_to","to":"VC-AUTO-TIP-001","note":"App + Skill + Database + Automation 的产品模式需要 automation 验证纪律。"}
