@@ -1,0 +1,4638 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "excalidraw-cli",
+  "elements": [
+    {
+      "type": "rectangle",
+      "id": "rect_1",
+      "x": -810,
+      "y": -130,
+      "width": 1300,
+      "height": 2820,
+      "strokeColor": "#ffffff",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_1_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_1_label",
+      "x": -800,
+      "y": -120,
+      "width": 1280,
+      "height": 2800,
+      "text": "",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_1",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_2",
+      "x": -760,
+      "y": -70,
+      "width": 470,
+      "height": 96,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_2_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FWiki%2FTopics%2FVibe%20Coding%2F00-Overview%2FVibe%20Coding%E4%B8%93%E9%A2%98%E8%B7%AF%E7%BA%BF%E5%9B%BE.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "Vibe Coding 路线图"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_2_label",
+      "x": -750,
+      "y": -60,
+      "width": 450,
+      "height": 76,
+      "text": "Vibe Coding 路线图",
+      "fontSize": 34,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_2",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "text",
+      "id": "text_3",
+      "x": -760,
+      "y": 45,
+      "text": "中文可编辑版：保留层级与布局思路，内容做了本地化改写",
+      "fontSize": 20,
+      "strokeColor": "#495057",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_4",
+      "x": -228,
+      "y": -82,
+      "width": 480,
+      "height": 150,
+      "strokeColor": "#dee2e6",
+      "backgroundColor": "#f8f9fa",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_4_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_4_label",
+      "x": -218,
+      "y": -72,
+      "width": 460,
+      "height": 130,
+      "text": "",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_4",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "text",
+      "id": "text_5",
+      "x": -210,
+      "y": -64,
+      "text": "AI 编程工具",
+      "fontSize": 24,
+      "strokeColor": "#1e1e1e",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "text",
+      "id": "text_6",
+      "x": -210,
+      "y": -22,
+      "text": "通用 agent 与前端生成工具分层看：先选工作方式，再选具体工具。",
+      "fontSize": 17,
+      "strokeColor": "#495057",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_7",
+      "x": -260,
+      "y": 52,
+      "width": 140,
+      "height": 38,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_7_label",
+          "type": "text"
+        }
+      ],
+      "link": "https://roadmap.sh/claude-code",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "Claude Code"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_7_label",
+      "x": -250,
+      "y": 62,
+      "width": 120,
+      "height": 18,
+      "text": "Claude Code",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_7",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_8",
+      "x": -90,
+      "y": 52,
+      "width": 140,
+      "height": 38,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_8_label",
+          "type": "text"
+        }
+      ],
+      "link": "https://gemini.google.com/",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "Gemini"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_8_label",
+      "x": -80,
+      "y": 62,
+      "width": 120,
+      "height": 18,
+      "text": "Gemini",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_8",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_9",
+      "x": -260,
+      "y": 108,
+      "width": 140,
+      "height": 38,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_9_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FWiki%2FTopics%2FVibe%20Coding%2F10-Getting%20Started%2FCodex%E6%96%B0%E6%89%8BVibe%20Coding%E5%B7%A5%E4%BD%9C%E6%B5%81.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "Codex"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_9_label",
+      "x": -250,
+      "y": 118,
+      "width": 120,
+      "height": 18,
+      "text": "Codex",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_9",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_10",
+      "x": -90,
+      "y": 108,
+      "width": 140,
+      "height": 38,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_10_label",
+          "type": "text"
+        }
+      ],
+      "link": "https://cursor.com/",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "Cursor"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_10_label",
+      "x": -80,
+      "y": 118,
+      "width": 120,
+      "height": 18,
+      "text": "Cursor",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_10",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_11",
+      "x": -260,
+      "y": 164,
+      "width": 140,
+      "height": 38,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_11_label",
+          "type": "text"
+        }
+      ],
+      "link": "https://windsurf.com/",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "Windsurf"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_11_label",
+      "x": -250,
+      "y": 174,
+      "width": 120,
+      "height": 18,
+      "text": "Windsurf",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_11",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_12",
+      "x": -90,
+      "y": 164,
+      "width": 140,
+      "height": 38,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_12_label",
+          "type": "text"
+        }
+      ],
+      "link": "https://github.com/features/copilot",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "Copilot"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_12_label",
+      "x": -80,
+      "y": 174,
+      "width": 120,
+      "height": 18,
+      "text": "Copilot",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_12",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_13",
+      "x": -260,
+      "y": 240,
+      "width": 140,
+      "height": 38,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#d0bfff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_13_label",
+          "type": "text"
+        }
+      ],
+      "link": "https://v0.dev/",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "v0"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_13_label",
+      "x": -250,
+      "y": 250,
+      "width": 120,
+      "height": 18,
+      "text": "v0",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_13",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_14",
+      "x": -90,
+      "y": 240,
+      "width": 140,
+      "height": 38,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#d0bfff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_14_label",
+          "type": "text"
+        }
+      ],
+      "link": "https://lovable.dev/",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "Lovable"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_14_label",
+      "x": -80,
+      "y": 250,
+      "width": 120,
+      "height": 18,
+      "text": "Lovable",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_14",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "text",
+      "id": "text_15",
+      "x": -220,
+      "y": 204,
+      "text": "前端生成类",
+      "fontSize": 18,
+      "strokeColor": "#6741d9",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "arrow",
+      "id": "line_16",
+      "x": -520,
+      "y": 62,
+      "width": 0,
+      "height": 2480,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2480
+        ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "strokeColor": "#2b78e4",
+      "strokeWidth": 5,
+      "roughness": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_17",
+      "x": -760,
+      "y": 150,
+      "width": 360,
+      "height": 56,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_17_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FWiki%2FTopics%2FAI%E8%A1%8C%E4%B8%9A%E5%88%A4%E6%96%AD%2F%E4%BB%8EVibeCoding%E5%88%B0AgenticEngineering.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "理解 Vibe Coding"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_17_label",
+      "x": -750,
+      "y": 160,
+      "width": 340,
+      "height": 36,
+      "text": "理解 Vibe Coding",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_17",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "arrow",
+      "id": "line_18",
+      "x": -520,
+      "y": 178,
+      "width": -180,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -180,
+          0
+        ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "strokeColor": "#2b78e4",
+      "strokeWidth": 4,
+      "roughness": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_19",
+      "x": -726,
+      "y": 228,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_19_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FWiki%2FTopics%2FAI%E8%A1%8C%E4%B8%9A%E5%88%A4%E6%96%AD%2F%E4%BB%8EVibeCoding%E5%88%B0AgenticEngineering.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "它是什么"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_19_label",
+      "x": -716,
+      "y": 238,
+      "width": 368,
+      "height": 22,
+      "text": "它是什么",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_19",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_20",
+      "x": -760,
+      "y": 236,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_20_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_20_label",
+      "x": -750,
+      "y": 246,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_20",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_21",
+      "x": -726,
+      "y": 276,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_21_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FWiki%2FTopics%2FAI%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%2F%E4%B8%8D%E8%A6%81%E5%A4%96%E5%8C%85%E4%BD%A0%E7%9A%84%E5%AD%A6%E4%B9%A0.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "使用者心态"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_21_label",
+      "x": -716,
+      "y": 286,
+      "width": 368,
+      "height": 22,
+      "text": "使用者心态",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_21",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_22",
+      "x": -760,
+      "y": 284,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_22_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_22_label",
+      "x": -750,
+      "y": 294,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_22",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_23",
+      "x": -760,
+      "y": 390,
+      "width": 360,
+      "height": 56,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_23_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FWiki%2FTopics%2FVibe%20Coding%2F10-Getting%20Started%2FCodex%E6%96%B0%E6%89%8BVibe%20Coding%E5%B7%A5%E4%BD%9C%E6%B5%81.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "先规划再写代码"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_23_label",
+      "x": -750,
+      "y": 400,
+      "width": 340,
+      "height": 36,
+      "text": "先规划再写代码",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_23",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "arrow",
+      "id": "line_24",
+      "x": -520,
+      "y": 418,
+      "width": -180,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -180,
+          0
+        ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "strokeColor": "#2b78e4",
+      "strokeWidth": 4,
+      "roughness": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_25",
+      "x": -726,
+      "y": 468,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_25_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FWiki%2FTopics%2FVibe%20Coding%2F10-Getting%20Started%2FCodex%E6%96%B0%E6%89%8BVibe%20Coding%E5%B7%A5%E4%BD%9C%E6%B5%81.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "拆 MVP 与阶段"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_25_label",
+      "x": -716,
+      "y": 478,
+      "width": 368,
+      "height": 22,
+      "text": "拆 MVP 与阶段",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_25",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_26",
+      "x": -760,
+      "y": 476,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_26_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_26_label",
+      "x": -750,
+      "y": 486,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_26",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_27",
+      "x": -726,
+      "y": 516,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_27_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "小步实现"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_27_label",
+      "x": -716,
+      "y": 526,
+      "width": 368,
+      "height": 22,
+      "text": "小步实现",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_27",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_28",
+      "x": -760,
+      "y": 524,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_28_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_28_label",
+      "x": -750,
+      "y": 534,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_28",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_29",
+      "x": -726,
+      "y": 564,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_29_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "给参考图/样例"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_29_label",
+      "x": -716,
+      "y": 574,
+      "width": 368,
+      "height": 22,
+      "text": "给参考图/样例",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_29",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_30",
+      "x": -760,
+      "y": 572,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_30_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_30_label",
+      "x": -750,
+      "y": 582,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_30",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_31",
+      "x": -726,
+      "y": 612,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_31_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FWiki%2FTopics%2FVibe%20Coding%2F10-Getting%20Started%2FCodex%E6%96%B0%E6%89%8BVibe%20Coding%E5%B7%A5%E4%BD%9C%E6%B5%81.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "写规格再执行"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_31_label",
+      "x": -716,
+      "y": 622,
+      "width": 368,
+      "height": 22,
+      "text": "写规格再执行",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_31",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_32",
+      "x": -760,
+      "y": 620,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_32_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_32_label",
+      "x": -750,
+      "y": 630,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_32",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_33",
+      "x": -228,
+      "y": 382,
+      "width": 480,
+      "height": 150,
+      "strokeColor": "#dee2e6",
+      "backgroundColor": "#f8f9fa",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_33_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_33_label",
+      "x": -218,
+      "y": 392,
+      "width": 460,
+      "height": 130,
+      "text": "",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_33",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "text",
+      "id": "text_34",
+      "x": -210,
+      "y": 400,
+      "text": "规划阶段也让 AI 参与",
+      "fontSize": 24,
+      "strokeColor": "#1e1e1e",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "text",
+      "id": "text_35",
+      "x": -210,
+      "y": 442,
+      "text": "先让 AI 帮你澄清目标、范围、阶段和风险，再进入实现。",
+      "fontSize": 17,
+      "strokeColor": "#495057",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_36",
+      "x": -760,
+      "y": 670,
+      "width": 360,
+      "height": 56,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_36_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FWiki%2FTopics%2FVibe%20Coding%2F10-Getting%20Started%2F%E5%90%8E%E7%AB%AF%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93%E9%80%89%E6%8B%A9.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "技术栈与代码标准"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_36_label",
+      "x": -750,
+      "y": 680,
+      "width": 340,
+      "height": 36,
+      "text": "技术栈与代码标准",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_36",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "arrow",
+      "id": "line_37",
+      "x": -520,
+      "y": 698,
+      "width": -180,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -180,
+          0
+        ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "strokeColor": "#2b78e4",
+      "strokeWidth": 4,
+      "roughness": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_38",
+      "x": -726,
+      "y": 748,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_38_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FWiki%2FTopics%2FVibe%20Coding%2F10-Getting%20Started%2F%E5%90%8E%E7%AB%AF%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93%E9%80%89%E6%8B%A9.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "选主流技术栈"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_38_label",
+      "x": -716,
+      "y": 758,
+      "width": 368,
+      "height": 22,
+      "text": "选主流技术栈",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_38",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_39",
+      "x": -760,
+      "y": 756,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_39_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_39_label",
+      "x": -750,
+      "y": 766,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_39",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_40",
+      "x": -726,
+      "y": 796,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_40_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "记录编码偏好"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_40_label",
+      "x": -716,
+      "y": 806,
+      "width": 368,
+      "height": 22,
+      "text": "记录编码偏好",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_40",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_41",
+      "x": -760,
+      "y": 804,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_41_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_41_label",
+      "x": -750,
+      "y": 814,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_41",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_42",
+      "x": -726,
+      "y": 844,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_42_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "保持模块小"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_42_label",
+      "x": -716,
+      "y": 854,
+      "width": 368,
+      "height": 22,
+      "text": "保持模块小",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_42",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_43",
+      "x": -760,
+      "y": 852,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_43_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_43_label",
+      "x": -750,
+      "y": 862,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_43",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_44",
+      "x": -726,
+      "y": 892,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_44_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FWiki%2FTopics%2FVibe%20Coding%2F10-Getting%20Started%2FAI%E7%BC%96%E7%A8%8B%E8%BE%B9%E5%81%9A%E8%BE%B9%E5%AD%A6%E5%B7%A5%E4%BD%9C%E6%B5%81.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "定期重构"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_44_label",
+      "x": -716,
+      "y": 902,
+      "width": 368,
+      "height": 22,
+      "text": "定期重构",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_44",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_45",
+      "x": -760,
+      "y": 900,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_45_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_45_label",
+      "x": -750,
+      "y": 910,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_45",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_46",
+      "x": -726,
+      "y": 940,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_46_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "复用别人写好的 skills"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_46_label",
+      "x": -716,
+      "y": 950,
+      "width": 368,
+      "height": 22,
+      "text": "复用别人写好的 skills",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_46",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_47",
+      "x": -760,
+      "y": 948,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_47_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_47_label",
+      "x": -750,
+      "y": 958,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_47",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_48",
+      "x": -228,
+      "y": 662,
+      "width": 480,
+      "height": 150,
+      "strokeColor": "#dee2e6",
+      "backgroundColor": "#f8f9fa",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_48_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_48_label",
+      "x": -218,
+      "y": 672,
+      "width": 460,
+      "height": 130,
+      "text": "",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_48",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "text",
+      "id": "text_49",
+      "x": -210,
+      "y": 680,
+      "text": "早期建立标准",
+      "fontSize": 24,
+      "strokeColor": "#1e1e1e",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "text",
+      "id": "text_50",
+      "x": -210,
+      "y": 722,
+      "text": "项目一开始就要约束目录、风格、依赖和代码组织方式。",
+      "fontSize": 17,
+      "strokeColor": "#495057",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_51",
+      "x": -760,
+      "y": 990,
+      "width": 360,
+      "height": 56,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_51_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "安全基础"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_51_label",
+      "x": -750,
+      "y": 1000,
+      "width": 340,
+      "height": 36,
+      "text": "安全基础",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_51",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "arrow",
+      "id": "line_52",
+      "x": -520,
+      "y": 1018,
+      "width": -180,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -180,
+          0
+        ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "strokeColor": "#2b78e4",
+      "strokeWidth": 4,
+      "roughness": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_53",
+      "x": -726,
+      "y": 1068,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_53_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "让 AI 做安全审计"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_53_label",
+      "x": -716,
+      "y": 1078,
+      "width": 368,
+      "height": 22,
+      "text": "让 AI 做安全审计",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_53",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_54",
+      "x": -760,
+      "y": 1076,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_54_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_54_label",
+      "x": -750,
+      "y": 1086,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_54",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_55",
+      "x": -726,
+      "y": 1116,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_55_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "密钥放 env，不写死"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_55_label",
+      "x": -716,
+      "y": 1126,
+      "width": 368,
+      "height": 22,
+      "text": "密钥放 env，不写死",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_55",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_56",
+      "x": -760,
+      "y": 1124,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_56_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_56_label",
+      "x": -750,
+      "y": 1134,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_56",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_57",
+      "x": -228,
+      "y": 982,
+      "width": 480,
+      "height": 150,
+      "strokeColor": "#dee2e6",
+      "backgroundColor": "#f8f9fa",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_57_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_57_label",
+      "x": -218,
+      "y": 992,
+      "width": 460,
+      "height": 130,
+      "text": "",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_57",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "text",
+      "id": "text_58",
+      "x": -210,
+      "y": 1000,
+      "text": "不要硬编码密钥",
+      "fontSize": 24,
+      "strokeColor": "#1e1e1e",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "text",
+      "id": "text_59",
+      "x": -210,
+      "y": 1042,
+      "text": "看到 token、密码、API key 被写进代码时，立即要求改成环境变量。",
+      "fontSize": 17,
+      "strokeColor": "#495057",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_60",
+      "x": -760,
+      "y": 1220,
+      "width": 360,
+      "height": 56,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_60_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FWiki%2FTopics%2FVibe%20Coding%2F10-Getting%20Started%2FCodex%E6%96%B0%E6%89%8BVibe%20Coding%E5%B7%A5%E4%BD%9C%E6%B5%81.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "Prompt 与上下文"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_60_label",
+      "x": -750,
+      "y": 1230,
+      "width": 340,
+      "height": 36,
+      "text": "Prompt 与上下文",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_60",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "arrow",
+      "id": "line_61",
+      "x": -520,
+      "y": 1248,
+      "width": -180,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -180,
+          0
+        ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "strokeColor": "#2b78e4",
+      "strokeWidth": 4,
+      "roughness": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_62",
+      "x": -726,
+      "y": 1298,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_62_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "一次一个任务"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_62_label",
+      "x": -716,
+      "y": 1308,
+      "width": 368,
+      "height": 22,
+      "text": "一次一个任务",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_62",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_63",
+      "x": -760,
+      "y": 1306,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_63_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_63_label",
+      "x": -750,
+      "y": 1316,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_63",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_64",
+      "x": -726,
+      "y": 1346,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_64_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "说具体，不说空话"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_64_label",
+      "x": -716,
+      "y": 1356,
+      "width": 368,
+      "height": 22,
+      "text": "说具体，不说空话",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_64",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_65",
+      "x": -760,
+      "y": 1354,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_65_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_65_label",
+      "x": -750,
+      "y": 1364,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_65",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_66",
+      "x": -726,
+      "y": 1394,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_66_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "告诉 AI 不要做什么"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_66_label",
+      "x": -716,
+      "y": 1404,
+      "width": 368,
+      "height": 22,
+      "text": "告诉 AI 不要做什么",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_66",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_67",
+      "x": -760,
+      "y": 1402,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_67_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_67_label",
+      "x": -750,
+      "y": 1412,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_67",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_68",
+      "x": -726,
+      "y": 1442,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_68_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "提供 mockup/参考文件"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_68_label",
+      "x": -716,
+      "y": 1452,
+      "width": 368,
+      "height": 22,
+      "text": "提供 mockup/参考文件",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_68",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_69",
+      "x": -760,
+      "y": 1450,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_69_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_69_label",
+      "x": -750,
+      "y": 1460,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_69",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_70",
+      "x": -726,
+      "y": 1490,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_70_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "必要时指定角色"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_70_label",
+      "x": -716,
+      "y": 1500,
+      "width": 368,
+      "height": 22,
+      "text": "必要时指定角色",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_70",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_71",
+      "x": -760,
+      "y": 1498,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_71_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_71_label",
+      "x": -750,
+      "y": 1508,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_71",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_72",
+      "x": -726,
+      "y": 1538,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_72_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "持续更新上下文文档"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_72_label",
+      "x": -716,
+      "y": 1548,
+      "width": 368,
+      "height": 22,
+      "text": "持续更新上下文文档",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_72",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_73",
+      "x": -760,
+      "y": 1546,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_73_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_73_label",
+      "x": -750,
+      "y": 1556,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_73",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_74",
+      "x": -726,
+      "y": 1586,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_74_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FWiki%2FTopics%2FVibe%20Coding%2F10-Getting%20Started%2FAI%E7%BC%96%E7%A8%8B%E8%BE%B9%E5%81%9A%E8%BE%B9%E5%AD%A6%E5%B7%A5%E4%BD%9C%E6%B5%81.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "复杂问题先让 AI 思考"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_74_label",
+      "x": -716,
+      "y": 1596,
+      "width": 368,
+      "height": 22,
+      "text": "复杂问题先让 AI 思考",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_74",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_75",
+      "x": -760,
+      "y": 1594,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_75_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_75_label",
+      "x": -750,
+      "y": 1604,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_75",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_76",
+      "x": -228,
+      "y": 1212,
+      "width": 480,
+      "height": 150,
+      "strokeColor": "#dee2e6",
+      "backgroundColor": "#f8f9fa",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_76_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_76_label",
+      "x": -218,
+      "y": 1222,
+      "width": 460,
+      "height": 130,
+      "text": "",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_76",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "text",
+      "id": "text_77",
+      "x": -210,
+      "y": 1230,
+      "text": "上下文文档要持续更新",
+      "fontSize": 24,
+      "strokeColor": "#1e1e1e",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "text",
+      "id": "text_78",
+      "x": -210,
+      "y": 1272,
+      "text": "重复出现的要求沉淀到 AGENTS.md / CLAUDE.md / 项目规范里。",
+      "fontSize": 17,
+      "strokeColor": "#495057",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_79",
+      "x": -760,
+      "y": 1660,
+      "width": 360,
+      "height": 56,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_79_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FWiki%2FTopics%2FVibe%20Coding%2F10-Getting%20Started%2FAI%E7%BC%96%E7%A8%8B%E8%BE%B9%E5%81%9A%E8%BE%B9%E5%AD%A6%E5%B7%A5%E4%BD%9C%E6%B5%81.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "上下文管理"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_79_label",
+      "x": -750,
+      "y": 1670,
+      "width": 340,
+      "height": 36,
+      "text": "上下文管理",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_79",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "arrow",
+      "id": "line_80",
+      "x": -520,
+      "y": 1688,
+      "width": -180,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -180,
+          0
+        ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "strokeColor": "#2b78e4",
+      "strokeWidth": 4,
+      "roughness": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_81",
+      "x": -726,
+      "y": 1738,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_81_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FWiki%2FTopics%2FVibe%20Coding%2F10-Getting%20Started%2FAI%E7%BC%96%E7%A8%8B%E8%BE%B9%E5%81%9A%E8%BE%B9%E5%AD%A6%E5%B7%A5%E4%BD%9C%E6%B5%81.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "长上下文只在需要时用"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_81_label",
+      "x": -716,
+      "y": 1748,
+      "width": 368,
+      "height": 22,
+      "text": "长上下文只在需要时用",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_81",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_82",
+      "x": -760,
+      "y": 1746,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_82_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_82_label",
+      "x": -750,
+      "y": 1756,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_82",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_83",
+      "x": -726,
+      "y": 1786,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_83_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "三轮失败就新开会话"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_83_label",
+      "x": -716,
+      "y": 1796,
+      "width": 368,
+      "height": 22,
+      "text": "三轮失败就新开会话",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_83",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_84",
+      "x": -760,
+      "y": 1794,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_84_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_84_label",
+      "x": -750,
+      "y": 1804,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_84",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_85",
+      "x": -726,
+      "y": 1834,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_85_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "无关任务主动清上下文"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_85_label",
+      "x": -716,
+      "y": 1844,
+      "width": 368,
+      "height": 22,
+      "text": "无关任务主动清上下文",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_85",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_86",
+      "x": -760,
+      "y": 1842,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_86_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_86_label",
+      "x": -750,
+      "y": 1852,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_86",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_87",
+      "x": -726,
+      "y": 1882,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_87_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "必要时用 subagents"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_87_label",
+      "x": -716,
+      "y": 1892,
+      "width": 368,
+      "height": 22,
+      "text": "必要时用 subagents",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_87",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_88",
+      "x": -760,
+      "y": 1890,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_88_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_88_label",
+      "x": -750,
+      "y": 1900,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_88",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_89",
+      "x": -228,
+      "y": 1652,
+      "width": 480,
+      "height": 150,
+      "strokeColor": "#dee2e6",
+      "backgroundColor": "#f8f9fa",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_89_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_89_label",
+      "x": -218,
+      "y": 1662,
+      "width": 460,
+      "height": 130,
+      "text": "",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_89",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "text",
+      "id": "text_90",
+      "x": -210,
+      "y": 1670,
+      "text": "定期清理上下文",
+      "fontSize": 24,
+      "strokeColor": "#1e1e1e",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "text",
+      "id": "text_91",
+      "x": -210,
+      "y": 1712,
+      "text": "上下文越杂，越容易漂移；新任务最好用干净会话重新开始。",
+      "fontSize": 17,
+      "strokeColor": "#495057",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_92",
+      "x": -760,
+      "y": 1930,
+      "width": 360,
+      "height": 56,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_92_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "调试"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_92_label",
+      "x": -750,
+      "y": 1940,
+      "width": 340,
+      "height": 36,
+      "text": "调试",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_92",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "arrow",
+      "id": "line_93",
+      "x": -520,
+      "y": 1958,
+      "width": -180,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -180,
+          0
+        ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "strokeColor": "#2b78e4",
+      "strokeWidth": 4,
+      "roughness": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_94",
+      "x": -726,
+      "y": 2008,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_94_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "把错误信息交给 AI"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_94_label",
+      "x": -716,
+      "y": 2018,
+      "width": 368,
+      "height": 22,
+      "text": "把错误信息交给 AI",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_94",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_95",
+      "x": -760,
+      "y": 2016,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_95_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_95_label",
+      "x": -750,
+      "y": 2026,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_95",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_96",
+      "x": -726,
+      "y": 2056,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_96_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "让 AI 列可能原因"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_96_label",
+      "x": -716,
+      "y": 2066,
+      "width": 368,
+      "height": 22,
+      "text": "让 AI 列可能原因",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_96",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_97",
+      "x": -760,
+      "y": 2064,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_97_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_97_label",
+      "x": -750,
+      "y": 2074,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_97",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_98",
+      "x": -726,
+      "y": 2104,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_98_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "要求加日志定位"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_98_label",
+      "x": -716,
+      "y": 2114,
+      "width": 368,
+      "height": 22,
+      "text": "要求加日志定位",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_98",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_99",
+      "x": -760,
+      "y": 2112,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_99_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_99_label",
+      "x": -750,
+      "y": 2122,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_99",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_100",
+      "x": -726,
+      "y": 2152,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_100_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "用 MCP / Playwright 验证"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_100_label",
+      "x": -716,
+      "y": 2162,
+      "width": 368,
+      "height": 22,
+      "text": "用 MCP / Playwright 验证",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_100",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_101",
+      "x": -760,
+      "y": 2160,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_101_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_101_label",
+      "x": -750,
+      "y": 2170,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_101",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_102",
+      "x": -228,
+      "y": 1922,
+      "width": 480,
+      "height": 150,
+      "strokeColor": "#dee2e6",
+      "backgroundColor": "#f8f9fa",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_102_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_102_label",
+      "x": -218,
+      "y": 1932,
+      "width": 460,
+      "height": 130,
+      "text": "",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_102",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "text",
+      "id": "text_103",
+      "x": -210,
+      "y": 1940,
+      "text": "让 AI 调试，但要理解原因",
+      "fontSize": 24,
+      "strokeColor": "#1e1e1e",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "text",
+      "id": "text_104",
+      "x": -210,
+      "y": 1982,
+      "text": "不要只收补丁。要求解释失败原因、验证方式和防回归测试。",
+      "fontSize": 17,
+      "strokeColor": "#495057",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_105",
+      "x": -760,
+      "y": 2200,
+      "width": 360,
+      "height": 56,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_105_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "版本控制"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_105_label",
+      "x": -750,
+      "y": 2210,
+      "width": 340,
+      "height": 36,
+      "text": "版本控制",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_105",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "arrow",
+      "id": "line_106",
+      "x": -520,
+      "y": 2228,
+      "width": -180,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -180,
+          0
+        ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "strokeColor": "#2b78e4",
+      "strokeWidth": 4,
+      "roughness": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_107",
+      "x": -726,
+      "y": 2278,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_107_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "成功一步就 commit"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_107_label",
+      "x": -716,
+      "y": 2288,
+      "width": 368,
+      "height": 22,
+      "text": "成功一步就 commit",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_107",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_108",
+      "x": -760,
+      "y": 2286,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_108_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_108_label",
+      "x": -750,
+      "y": 2296,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_108",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_109",
+      "x": -726,
+      "y": 2326,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_109_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "新功能前保持干净状态"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_109_label",
+      "x": -716,
+      "y": 2336,
+      "width": 368,
+      "height": 22,
+      "text": "新功能前保持干净状态",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_109",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_110",
+      "x": -760,
+      "y": 2334,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_110_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_110_label",
+      "x": -750,
+      "y": 2344,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_110",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_111",
+      "x": -726,
+      "y": 2374,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_111_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "用 Git 回滚"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_111_label",
+      "x": -716,
+      "y": 2384,
+      "width": 368,
+      "height": 22,
+      "text": "用 Git 回滚",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_111",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_112",
+      "x": -760,
+      "y": 2382,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_112_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_112_label",
+      "x": -750,
+      "y": 2392,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_112",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_113",
+      "x": -726,
+      "y": 2422,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_113_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "让 AI 辅助 Git/GitHub CLI"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_113_label",
+      "x": -716,
+      "y": 2432,
+      "width": 368,
+      "height": 22,
+      "text": "让 AI 辅助 Git/GitHub CLI",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_113",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_114",
+      "x": -760,
+      "y": 2430,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_114_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_114_label",
+      "x": -750,
+      "y": 2440,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_114",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_115",
+      "x": -228,
+      "y": 2192,
+      "width": 480,
+      "height": 150,
+      "strokeColor": "#dee2e6",
+      "backgroundColor": "#f8f9fa",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_115_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_115_label",
+      "x": -218,
+      "y": 2202,
+      "width": 460,
+      "height": 130,
+      "text": "",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_115",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "text",
+      "id": "text_116",
+      "x": -210,
+      "y": 2210,
+      "text": "频繁提交，信息清晰",
+      "fontSize": 24,
+      "strokeColor": "#1e1e1e",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "text",
+      "id": "text_117",
+      "x": -210,
+      "y": 2252,
+      "text": "每个可工作的阶段都留下 checkpoint，避免 AI 改坏后无法回退。",
+      "fontSize": 17,
+      "strokeColor": "#495057",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_118",
+      "x": -760,
+      "y": 2470,
+      "width": 360,
+      "height": 56,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_118_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "测试"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_118_label",
+      "x": -750,
+      "y": 2480,
+      "width": 340,
+      "height": 36,
+      "text": "测试",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_118",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "arrow",
+      "id": "line_119",
+      "x": -520,
+      "y": 2498,
+      "width": -180,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -180,
+          0
+        ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "strokeColor": "#2b78e4",
+      "strokeWidth": 4,
+      "roughness": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_120",
+      "x": -726,
+      "y": 2548,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_120_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "要求 AI 写测试"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_120_label",
+      "x": -716,
+      "y": 2558,
+      "width": 368,
+      "height": 22,
+      "text": "要求 AI 写测试",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_120",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_121",
+      "x": -760,
+      "y": 2556,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_121_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_121_label",
+      "x": -750,
+      "y": 2566,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_121",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_122",
+      "x": -726,
+      "y": 2596,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_122_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "考虑 TDD"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_122_label",
+      "x": -716,
+      "y": 2606,
+      "width": 368,
+      "height": 22,
+      "text": "考虑 TDD",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_122",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_123",
+      "x": -760,
+      "y": 2604,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_123_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_123_label",
+      "x": -750,
+      "y": 2614,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_123",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_124",
+      "x": -726,
+      "y": 2644,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_124_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FOutputs%2FSOP%E4%B8%8E%E6%A8%A1%E6%9D%BF%2FCodex%E5%81%9AWebApp%E6%A3%80%E6%9F%A5%E6%B8%85%E5%8D%95.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "先写失败测试再修 bug"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_124_label",
+      "x": -716,
+      "y": 2654,
+      "width": 368,
+      "height": 22,
+      "text": "先写失败测试再修 bug",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_124",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_125",
+      "x": -760,
+      "y": 2652,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_125_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_125_label",
+      "x": -750,
+      "y": 2662,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_125",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_126",
+      "x": -726,
+      "y": 2692,
+      "width": 388,
+      "height": 42,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#fff3bf",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_126_label",
+          "type": "text"
+        }
+      ],
+      "link": "obsidian://open?path=%2FUsers%2Fjachi%2FDocuments%2Fagent-harness%2FWiki%2FTopics%2FVibe%20Coding%2F10-Getting%20Started%2FAI%E7%BC%96%E7%A8%8B%E8%BE%B9%E5%81%9A%E8%BE%B9%E5%AD%A6%E5%B7%A5%E4%BD%9C%E6%B5%81.md",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "有测试后再重构"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_126_label",
+      "x": -716,
+      "y": 2702,
+      "width": 368,
+      "height": 22,
+      "text": "有测试后再重构",
+      "fontSize": 17,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_126",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_127",
+      "x": -760,
+      "y": 2700,
+      "width": 20,
+      "height": 20,
+      "strokeColor": "#d6a100",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_127_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_127_label",
+      "x": -750,
+      "y": 2710,
+      "width": 0,
+      "height": 0,
+      "text": "",
+      "fontSize": 1,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_127",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_128",
+      "x": -228,
+      "y": 2462,
+      "width": 480,
+      "height": 150,
+      "strokeColor": "#dee2e6",
+      "backgroundColor": "#f8f9fa",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_128_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "rect_128_label",
+      "x": -218,
+      "y": 2472,
+      "width": 460,
+      "height": 130,
+      "text": "",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_128",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "text",
+      "id": "text_129",
+      "x": -210,
+      "y": 2480,
+      "text": "默认要求 AI 测试",
+      "fontSize": 24,
+      "strokeColor": "#1e1e1e",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "text",
+      "id": "text_130",
+      "x": -210,
+      "y": 2522,
+      "text": "AI 默认偏实现。你要明确要求单测、E2E、回归测试和验证步骤。",
+      "fontSize": 17,
+      "strokeColor": "#495057",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "text",
+      "id": "text_131",
+      "x": -500,
+      "y": 2630,
+      "text": "继续学习",
+      "fontSize": 24,
+      "strokeColor": "#495057",
+      "roughness": 1,
+      "fontFamily": 1
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_132",
+      "x": -560,
+      "y": 2680,
+      "width": 150,
+      "height": 48,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#d0bfff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_132_label",
+          "type": "text"
+        }
+      ],
+      "link": "https://roadmap.sh/claude-code",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "Claude Code"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_132_label",
+      "x": -550,
+      "y": 2690,
+      "width": 130,
+      "height": 28,
+      "text": "Claude Code",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_132",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_133",
+      "x": -380,
+      "y": 2680,
+      "width": 150,
+      "height": 48,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#d0bfff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_133_label",
+          "type": "text"
+        }
+      ],
+      "link": "https://roadmap.sh/ai-engineer",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "AI Engineer"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_133_label",
+      "x": -370,
+      "y": 2690,
+      "width": 130,
+      "height": 28,
+      "text": "AI Engineer",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_133",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "rect_134",
+      "x": -200,
+      "y": 2680,
+      "width": 150,
+      "height": 48,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#d0bfff",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1.4,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "rect_134_label",
+          "type": "text"
+        }
+      ],
+      "link": "https://roadmap.sh/ai-agents",
+      "customData": {
+        "source": "agent-harness-vibe-coding-clickable-roadmap",
+        "targetLabel": "AI Agents"
+      }
+    },
+    {
+      "type": "text",
+      "id": "rect_134_label",
+      "x": -190,
+      "y": 2690,
+      "width": 130,
+      "height": 28,
+      "text": "AI Agents",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "rect_134",
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "arrow",
+      "id": "arrow_135",
+      "x": -520,
+      "y": 2542,
+      "width": 0,
+      "height": 83,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          83
+        ]
+      ],
+      "endArrowhead": "arrow",
+      "strokeColor": "#2b78e4",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "boundElements": [
+        {
+          "id": "arrow_135_label",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "id": "arrow_135_label",
+      "x": -510,
+      "y": 2552,
+      "width": 80,
+      "height": 63,
+      "text": "next",
+      "fontSize": 15,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "arrow_135"
+    },
+    {
+      "type": "rectangle",
+      "id": "click_legend_136",
+      "x": -760,
+      "y": 80,
+      "width": 410,
+      "height": 46,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#e7f5ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1.2,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "type": "text",
+      "id": "click_legend_137",
+      "x": -738,
+      "y": 94,
+      "text": "蓝色描边节点已添加链接，可点击打开对应资料",
+      "fontSize": 18,
+      "strokeColor": "#1864ab",
+      "roughness": 1
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff",
+    "gridSize": null
+  },
+  "files": {}
+}

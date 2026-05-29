@@ -1,0 +1,16 @@
+.DS_Store
+.tmp/
+**/__pycache__/
+*.pyc
+
+# Local generated material
+Sources/**/candidates/
+Sources/**/scene_extract.log
+Sources/**/batch-report.jsonl
+
+# Large local runtimes are intentionally symlinked or installed per machine.
+.venv-marker
+Tools/vendor/marker
+
+# Local Obsidian REST API credentials generated per machine.
+.obsidian/plugins/obsidian-local-rest-api/data.json
